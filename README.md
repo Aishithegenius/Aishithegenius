@@ -1,36 +1,93 @@
-# Hi there, I'm Bless Benjamin. 👋
+<p align="left"></p>
 
-Welcome to my GitHub! I'm a software developer with a love for Python and a curiosity for cybersecurity. I believe in learning by doing—so I spend my time building projects, breaking things, and figuring out how to put them back together. Every day is an adventure in code!
+###
 
-## 🔭 I’m currently working on:
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Right now, I’m diving deep into Python, writing code that may or may not end up doing what I expect (but that’s half the fun, right?). I’m also tackling cybersecurity—learning how to keep things secure without accidentally locking myself out of everything. When I'm not breaking things in the name of learning, I’m working on automating tasks to make my day-to-day life a little smoother.
+###
 
-## 🌱 I’m currently learning:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+</div>
 
-I’m getting cozy with advanced Python concepts and trying not to get overwhelmed by the sheer amount of things I could learn. I’m also venturing into ethical hacking, because who doesn’t love a good challenge? Oh, and I’ve recently started dabbling in machine learning, which, for the record, feels like teaching my computer to think for me (which is honestly kind of exciting).
+###
 
-## 👯 I’m looking to collaborate on:
+<div align="center">
+  <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/aishithegenius" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/aishithegenius/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+</div>
 
-I’m always open to working on open-source Python projects or collaborating on anything related to web development or automation. If it involves making something more secure, I’m in! Also, if you have a project with lots of bugs and need someone to help troubleshoot, I’m your person (I might even bring snacks).
+###
 
-## 🤔 I’m looking for help with:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aishithegenius&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=aishithegenius&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-If you’re an expert in ethical hacking, Python libraries, or securing applications, I’d love to pick your brain! I’m always on the lookout for best practices and tips to improve my skills. And if you know a foolproof way to stop Google from knowing everything about me, please share.
+###
 
-## 💬 Ask me about:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishithegenius/aishithegenius/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aishithegenius/aishithegenius/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aishithegenius/aishithegenius/output/pacman-contribution-graph.svg">
+</picture>
 
-Want to talk Python? I’m your person. Curious about ethical hacking? I’m happy to share what I’ve learned so far. Need tips on how to start coding or break into cybersecurity? Let’s chat—I’m always here to help fellow learners.
+###
 
-## 📫 How to reach me:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aishithegenius.aishithegenius&"  />
+</div>
 
-Feel free to shoot me an email or connect with me on LinkedIn. I love meeting new people and exchanging ideas. If you have a cool project or just want to chat about tech, don't hesitate to reach out!
-
-## 😄 Pronouns:
-
-He/Him
-
-## ⚡ Fun fact:
-
-I once spent an entire afternoon debugging a program that was just missing a semicolon. Lesson learned: sometimes the simplest things can be the trickiest. And yes, I laugh at my own mistakes because they’re a sign I’m learning something new!
-
+###
