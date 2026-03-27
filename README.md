@@ -1,13 +1,14 @@
 <p align="center">
-  <span style="font-size: 60px; font-weight:bold;">Bless Benjamin</span>  
+  <span style="font-size:72px; font-weight:bold;">Bless Benjamin</span>  
   <br />
   <hr style="width:60%; border-top:0.5px solid #000;" />
-  <span style="font-size:22px; color:#555;">Cybersecurity • Software • Systems</span>
 </p>
 
 <p align="center">
-  <strong>Part-time HUMAN, full-time CODER</strong>  
+  <span style="font-size:22px; color:#555;">Cybersecurity • Software • Systems</span>
   <br />
+  <strong>Part-time HUMAN, full-time CODER</strong>
+  <br /><br />
   <a href="mailto:aishithegenius@gmail.com" style="text-decoration:none; color:#000;">📧 aishithegenius@gmail.com</a>
   <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank" style="text-decoration:none; margin-left:15px; color:#0A66C2;">LinkedIn</a>
   <a href="https://x.com/aishithegenius" target="_blank" style="text-decoration:none; margin-left:15px; color:#1DA1F2;">Twitter</a>
@@ -15,16 +16,14 @@
   <a href="https://tryhackme.com/p/aishithegenius" target="_blank" style="text-decoration:none; margin-left:15px; color:#88cc14;">TryHackMe</a>
 </p>
 
----
-
 <p align="center">
-  <hr style="width:90%; border:1px solid #ccc;" />
+  <hr style="width:90%; border-top:0.5px solid #ccc;" />
 </p>
 
 <p align="center">
-  <span style="font-size:32px; font-weight:bold;">The Persona</span>  
+  <span style="font-size:36px; font-weight:bold;">The Persona</span>  
   <br />
-  <hr style="width:50%; border:1px solid #ccc;" />
+  <hr style="width:50%; border-top:0.5px solid #ccc;" />
 </p>
 
 I’m Bless!  
@@ -33,40 +32,37 @@ Cybersecurity enthusiast and systems whisperer, on a mission to make digital spa
 **Always Learning**  
 The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design. Every lab, exploit simulation, or hardened server is another step toward bulletproof solutions.
 
----
-
 <p align="center">
-  <hr style="width:90%; border:1px solid #ccc;" />
+  <hr style="width:90%; border-top:0.5px solid #ccc;" />
 </p>
 
 <p align="center">
-  <span style="font-size:32px; font-weight:bold;">Skills</span>
+  <span style="font-size:36px; font-weight:bold;">Skills</span>
 </p>
 
 **Cybersecurity:**  
 Penetration testing • Network security • Cloud hardening • Vulnerability assessment • Threat modeling • Access control • Auditability  
 
 **Software & Systems:**  
-Python • JavaScript • Node.js • React • FastAPI • Django • SQL & NoSQL databases • REST APIs • CI/CD • System design  
+Python • JavaScript • Node.js • React • FastAPI • Django • SQL & NoSQL databases • REST APIs • CI/CD • System design • Automation  
 
 **Tools & Platforms:**  
-Linux • Docker • VMware • Git/GitHub • AWS/GCP • Postman • Burp Suite • Wireshark  
-
----
+Linux • Docker • VMware • Git/GitHub • AWS/GCP • Postman • Burp Suite • Wireshark • Terraform • Kubernetes  
 
 <p align="center">
-  <hr style="width:90%; border:1px solid #ccc;" />
+  <hr style="width:90%; border-top:0.5px solid #ccc;" />
 </p>
 
 <p align="center">
-  <span style="font-size:32px; font-weight:bold;">Focus Area</span>
+  <span style="font-size:36px; font-weight:bold;">Focus Area</span>
 </p>
 
 Think of me as your digital Swiss Army knife:  
 - **Web Security:** Hunting bugs and patching exploits before they cause havoc.  
 - **Cloud Fortification:** Ensuring your data floats safely, not like an unguarded raft.  
 - **System Design:** Writing code that doesn’t just work, it survives.  
-- **Automation & CI/CD:** Because robots do the boring stuff better.  
+- **Automation & CI/CD:** Robots do the boring stuff better.  
+- **Ethical Hacking & Pen Testing:** Because prevention beats cure.  
 
 ---
 
