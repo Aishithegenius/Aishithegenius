@@ -1,7 +1,6 @@
 <p align="center">
   <span style="font-size:72px; font-weight:bold;">Bless Benjamin</span>  
-  <br />
-  <hr style="width:60%; border-top:0.5px solid #000;" />
+  
 </p>
 
 <p align="center">
