@@ -2,15 +2,12 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Bless Benjamin!</h1>
 
 ###
 
-I’m Bless!  
-
+Hi there, I’m Bless!  
 Cybersecurity enthusiast and systems whisperer, on a mission to make digital spaces safe before attackers even show up. I build, break, and fortify systems, with software engineering as my trusty sidekick for scalable and maintainable solutions.
-
-I focus on real-world security: from web apps and networks to cloud deployments, ensuring data integrity, access control, and threat-aware design are always first-class citizens.
 
 **Always Learning**  
 The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design. Every lab, exploit simulation, or hardened server is another step toward bulletproof solutions.
@@ -22,15 +19,37 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
@@ -39,17 +58,17 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
 </div>
 
 ###
 
-### Skills & Focus Areas
+**Skills & Focus Areas**  
 
 **Cybersecurity:** Penetration testing, network security, cloud hardening, vulnerability assessment, threat modeling, access control & auditability  
-
 **Software & Systems:** Python, JavaScript, Node.js, React, FastAPI, Django, SQL & NoSQL databases, REST APIs, CI/CD, system design  
-
-**Tools & Platforms:** Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark
+**Tools & Platforms:** Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark  
 
 ###
 
