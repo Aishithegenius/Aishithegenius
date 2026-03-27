@@ -14,42 +14,47 @@ Part-time HUMAN, full-time CODER
 # The Persona
 
 I’m Bless!  
-Cybersecurity enthusiast and systems whisperer, on a mission to make digital spaces safe before attackers even show up. I build, break, and fortify systems, with software engineering as my trusty sidekick for scalable and maintainable solutions.
+A cybersecurity enthusiast with a knack for finding weak spots before they become problems. I explore networks, systems, and cloud environments, probing for vulnerabilities and building defenses that actually hold up under pressure. I enjoy breaking things to understand how they work, then crafting solutions that are resilient, practical, and a little clever. From penetration testing to automation and system hardening, I combine curiosity with hands-on problem-solving to make digital spaces safer. Every challenge is a chance to learn, innovate, and stay one step ahead of the threats that never sleep.
 
-**Always Learning**  
+<hr style="border: 2px solid grey;">
+
+# Learning Streak 
 The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design. Every lab, exploit simulation, or hardened server is another step toward bulletproof solutions.
 
+<hr style="border: 2px solid grey;">
 
+# What I Do
+•Web & API Security Testing: Manual-first, automation-assisted pentesting, aligned with real-world ethical hacking best practices
+•Mobile Security: Android & iOS app testing, traffic instrumentation, and reverse engineering where appropriate.
+•Secure Code Review & Vulnerability Research: Auditing software for bugs and security gaps before they become incidents.
+•Proof-of-Concept Development & Reporting: Clear, reproducible PoCs that communicate risks effectively to teams and stakeholders.
+•Software Engineering & Systems Design: Writing maintainable, scalable code while ensuring security is baked in, not bolted on.
 
-<p align="center">
-  <span style="font-size:36px; font-weight:bold;">Skills</span>
-</p>
+<hr style="border: 2px solid grey;">
 
+# Skills
 **Cybersecurity:**  
-Penetration testing • Network security • Cloud hardening • Vulnerability assessment • Threat modeling • Access control • Auditability  
+Penetration testing, Network security, Cloud hardening, Vulnerability assessment, Threat modeling, Access control, Auditability  
 
 **Software & Systems:**  
-Python • JavaScript • Node.js • React • FastAPI • Django • SQL & NoSQL databases • REST APIs • CI/CD • System design • Automation  
+Python, JavaScript, Node.js, React, FastAPI, Django, SQL & NoSQL databases, REST APIs, System design, Automation  
 
 **Tools & Platforms:**  
-Linux • Docker • VMware • Git/GitHub • AWS/GCP • Postman • Burp Suite • Wireshark • Terraform • Kubernetes  
+Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark, Terraform, Kubernetes  
 
-<p align="center">
-  <hr style="width:90%; border-top:0.5px solid #ccc;" />
-</p>
+<hr style="border: 2px solid grey;">
 
-<p align="center">
-  <span style="font-size:36px; font-weight:bold;">Focus Area</span>
-</p>
+# Behind The Scenes
+I don’t just work with systems — I question them.
 
-Think of me as your digital Swiss Army knife:  
-- **Web Security:** Hunting bugs and patching exploits before they cause havoc.  
-- **Cloud Fortification:** Ensuring your data floats safely, not like an unguarded raft.  
-- **System Design:** Writing code that doesn’t just work, it survives.  
-- **Automation & CI/CD:** Robots do the boring stuff better.  
-- **Ethical Hacking & Pen Testing:** Because prevention beats cure.  
+Every application, API, or network I touch is treated as something that can fail, be misused, or be misunderstood. I pay attention to the small things most people ignore — assumptions in logic, trust boundaries, and how components interact under pressure.
+<br>
+Security, to me, isn’t a checklist. It’s about understanding behavior:
+how systems respond, how users interact, and how attackers think.
+<br><br>
+That’s where I operate — in the gap between what a system is supposed to do and what it actually does.
 
----
+<hr style="border: 2px solid grey;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
