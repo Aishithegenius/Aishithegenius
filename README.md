@@ -11,10 +11,7 @@ Part-time HUMAN, full-time CODER
 
 <hr style="border: 2px solid grey;">
 
-<p>
- ## <span style="font-size:36px; font-weight:bold;">The Persona</span>  
-  <br />
-</p>
+# The Persona
 
 I’m Bless!  
 Cybersecurity enthusiast and systems whisperer, on a mission to make digital spaces safe before attackers even show up. I build, break, and fortify systems, with software engineering as my trusty sidekick for scalable and maintainable solutions.
