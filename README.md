@@ -1,14 +1,16 @@
 <div align="center">
 
-# Bless Benjamin
+<h1 style="font-size:72px;">Bless Benjamin</h1>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
-**Cybersecurity • Software • Systems**
+**Cybersecurity • Software • Systems**  
 <br>
-Part-time HUMAN, full-time CODER
+Part-time HUMAN, full-time CODER  
+<br><br>
 
-</div>
-
-<div align="center"> 
+<a href="mailto:aishithegenius@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge" height="25"/>
+</a> 
 <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
 </a> 
@@ -19,26 +21,30 @@ Part-time HUMAN, full-time CODER
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
 </a> 
 <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&color=88cc14&logoColor=white&style=for-the-badge" height="25"/>
+
 </div>
 
 <hr style="border: 2px solid grey;">
 
-# The Persona
+<h2 style="font-size:42px;"><b>The Persona</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
 I’m Bless!  
 A cybersecurity enthusiast with a knack for finding weak spots before they become problems. I explore networks, systems, and cloud environments, probing for vulnerabilities and building defenses that actually hold up under pressure.
 
-From penetration testing to automation and system hardening, I combine curiosity with hands-on problem-solving to make digital spaces safer.
+From penetration testing to automation and system hardening, I combine curiosity with hands-on problem-solving to make digital spaces safer. Every challenge is a chance to learn, innovate, and stay one step ahead of the threats that never sleep.
 
 ---
 
-# Learning Streak
+<h2 style="font-size:42px;"><b>Learning Streak</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
-The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design.
+The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design. Every lab, exploit simulation, or hardened server is another step toward bulletproof solutions.
 
 ---
 
-# What I Do
+<h2 style="font-size:42px;"><b>What I Do</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
 **• Web & API Security Testing:**  
 Manual-first, automation-assisted pentesting aligned with real-world attack scenarios
@@ -57,7 +63,8 @@ Building systems where security is part of the architecture, not an afterthought
 
 ---
 
-# Skills
+<h2 style="font-size:42px;"><b>Skills</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
 **Cybersecurity:**  
 Penetration testing, Network security, Cloud hardening, Vulnerability assessment, Threat modeling, Access control, Auditability
@@ -70,39 +77,43 @@ Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark, Terr
 
 ---
 
-# Behind The Screens
+<h2 style="font-size:42px;"><b>Behind The Scenes</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
-I don’t just work with systems — I question them.
+I don’t just work with systems — I question them. Every application, API, or network I touch is treated as something that can fail, be misused, or be misunderstood. I pay attention to assumptions, trust boundaries, and how systems behave under pressure.
 
-Every application, API, or network I touch is treated as something that can fail, be misused, or be misunderstood. I pay attention to assumptions, trust boundaries, and how systems behave under pressure.
-
-Security isn’t a checklist. It’s understanding behavior — how systems respond, how users interact, and how attackers think.
-
-That’s where I operate:  
-in the gap between what a system is supposed to do and what it actually does.
+Security isn’t a checklist. It’s understanding behavior — how systems respond, how users interact, and how attackers think. That’s where I operate: in the gap between what a system is supposed to do and what it actually does.
 
 ---
 
-<!--START_SECTION:waka-->
+<h2 style="font-size:42px;"><b>Focus Area</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
-```txt
-No activity tracked
-```
+From Moringa labs to real-world systems, I specialize in ethical hacking, penetration testing, and software security. I bridge coding with protection, ensuring systems are not just functional but resilient under pressure.
 
-<!--END_SECTION:waka-->
+---
 
-# Languages & Tools
+<h2 style="font-size:42px;"><b>Languages & Tools</b></h2>
+<hr style="border: 0.5px solid #999; width: 50px;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
 </div>
 
 ---
