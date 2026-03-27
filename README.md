@@ -1,11 +1,10 @@
-<p align="center">
-  <h1>Bless Benjamin</h1>
-</p>
+<div align="center">
 
-<p align="center">
-  <span style="font-size:22px; color:#555;">Cybersecurity • Software • Systems</span>
-  <br />
-  <strong>Part-time HUMAN, full-time CODER</strong>
+# Bless Benjamin
+## Cybersecurity • Software • Systems
+**Part-time HUMAN, full-time CODER**
+
+</div>
   <br /><br />
   <a href="mailto:aishithegenius@gmail.com" style="text-decoration:none; color:#000;">📧 aishithegenius@gmail.com</a>
   <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank" style="text-decoration:none; margin-left:15px; color:#0A66C2;">LinkedIn</a>
