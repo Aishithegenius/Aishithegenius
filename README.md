@@ -83,6 +83,9 @@ in the gap between what a system is supposed to do and what it actually does.
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Languages & Tools
 
 <div align="center">
