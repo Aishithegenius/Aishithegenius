@@ -6,9 +6,14 @@
 
 ###
 
-Hi, I’m Bless Benjamin!  
+I’m Bless!  
 
-I focus on building secure systems and exploring the cutting edge of cybersecurity — from penetration testing to system hardening and cloud security. Software and full-stack projects are my playground, but security is always front and center. I enjoy designing systems that are safe, scalable, and auditable, while keeping things maintainable and usable.
+Cybersecurity enthusiast and systems whisperer, on a mission to make digital spaces safe before attackers even show up. I build, break, and fortify systems, with software engineering as my trusty sidekick for scalable and maintainable solutions.
+
+I focus on real-world security: from web apps and networks to cloud deployments, ensuring data integrity, access control, and threat-aware design are always first-class citizens.
+
+**Always Learning**  
+The digital world doesn’t wait, and neither do I. I’m constantly diving into new attack surfaces, mastering tools, exploring cloud security best practices, and sharpening my skills in ethical hacking and software systems design. Every lab, exploit simulation, or hardened server is another step toward bulletproof solutions.
 
 ###
 
@@ -35,6 +40,16 @@ I focus on building secure systems and exploring the cutting edge of cybersecuri
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
+
+###
+
+### Skills & Focus Areas
+
+**Cybersecurity:** Penetration testing, network security, cloud hardening, vulnerability assessment, threat modeling, access control & auditability  
+
+**Software & Systems:** Python, JavaScript, Node.js, React, FastAPI, Django, SQL & NoSQL databases, REST APIs, CI/CD, system design  
+
+**Tools & Platforms:** Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark
 
 ###
 
