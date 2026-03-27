@@ -1,17 +1,33 @@
-# Bless Benjamin
----
-
-**Cybersecurity • Software • Systems**  
-*Part-time HUMAN, full-time CODER*  
-
-📧 aishithegenius@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/bless-benjamin-a099b5289/) • [Twitter](https://x.com/aishithegenius) • [Instagram](https://www.instagram.com/aishithegenius/) • [TryHackMe](https://tryhackme.com/p/aishithegenius)  
+<p align="center">
+  <strong>Bless Benjamin</strong>  
+  <hr style="width:50%; border:1px solid #000;" />
+</p>
 
 ---
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<p align="center">
+  <strong>Part-time HUMAN, full-time CODER</strong>  
+  <br />
+  📧 <a href="mailto:aishithegenius@gmail.com">aishithegenius@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank">LinkedIn</a> • 
+  <a href="https://x.com/aishithegenius" target="_blank">Twitter</a> • 
+  <a href="https://www.instagram.com/aishithegenius/" target="_blank">Instagram</a> • 
+  <a href="https://tryhackme.com/p/aishithegenius" target="_blank">TryHackMe</a>
+</p>
 
 ---
+
+<p align="center">
+  <hr style="width:90%; border:1px solid #000;" />
+</p>
+
+---
+
+<p align="center">
+  <strong>The Persona</strong>  
+  <br />
+  <hr style="width:50%; border:1px solid #000;" />
+</p>
 
 I’m Bless!  
 Cybersecurity enthusiast and systems whisperer, on a mission to make digital spaces safe before attackers even show up. I build, break, and fortify systems, with software engineering as my trusty sidekick for scalable and maintainable solutions.
@@ -21,11 +37,30 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
 
 ---
 
-**Skills & Focus Areas**  
+<p align="center">
+  <strong>Skills</strong>
+</p>
 
-**Cybersecurity:** Penetration testing, network security, cloud hardening, vulnerability assessment, threat modeling, access control & auditability  
-**Software & Systems:** Python, JavaScript, Node.js, React, FastAPI, Django, SQL & NoSQL databases, REST APIs, CI/CD, system design  
-**Tools & Platforms:** Linux, Docker, VMware, Git/GitHub, AWS/GCP, Postman, Burp Suite, Wireshark  
+**Cybersecurity:**  
+Penetration testing • Network security • Cloud hardening • Vulnerability assessment • Threat modeling • Access control • Auditability  
+
+**Software & Systems:**  
+Python • JavaScript • Node.js • React • FastAPI • Django • SQL & NoSQL databases • REST APIs • CI/CD • System design  
+
+**Tools & Platforms:**  
+Linux • Docker • VMware • Git/GitHub • AWS/GCP • Postman • Burp Suite • Wireshark  
+
+---
+
+<p align="center">
+  <strong>Focus Area</strong>
+</p>
+
+Think of me as your digital Swiss Army knife:  
+- **Web Security:** Hunting bugs and patching exploits before they cause havoc.  
+- **Cloud Fortification:** Ensuring your data floats safely, not like an unguarded raft.  
+- **System Design:** Writing code that doesn’t just work, it survives.  
+- **Automation & CI/CD:** Because robots do the boring stuff better.  
 
 ---
 
