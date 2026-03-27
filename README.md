@@ -1,5 +1,7 @@
 <p align="center">
-  <span style="font-size:36px; font-weight:bold;">Bless Benjamin</span>
+
+# **Bless Benjamin**
+
 </p>
 
 <p align="center">
