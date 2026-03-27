@@ -84,6 +84,11 @@ in the gap between what a system is supposed to do and what it actually does.
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # Languages & Tools
