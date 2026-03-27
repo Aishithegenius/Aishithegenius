@@ -93,6 +93,9 @@ From Moringa labs to real-world systems, I specialize in ethical hacking, penetr
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 style="font-size:42px;"><b>Languages & Tools</b></h2>
 <hr style="border: 0.5px solid #999; width: 50px;">
 
