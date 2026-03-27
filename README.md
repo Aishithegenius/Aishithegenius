@@ -1,32 +1,30 @@
 <p align="center">
-  <strong>Bless Benjamin</strong>  
-  <hr style="width:50%; border:1px solid #000;" />
+  <span style="font-size: 60px; font-weight:bold;">Bless Benjamin</span>  
+  <br />
+  <hr style="width:60%; border-top:0.5px solid #000;" />
+  <span style="font-size:22px; color:#555;">Cybersecurity • Software • Systems</span>
 </p>
-
----
 
 <p align="center">
   <strong>Part-time HUMAN, full-time CODER</strong>  
   <br />
-  📧 <a href="mailto:aishithegenius@gmail.com">aishithegenius@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank">LinkedIn</a> • 
-  <a href="https://x.com/aishithegenius" target="_blank">Twitter</a> • 
-  <a href="https://www.instagram.com/aishithegenius/" target="_blank">Instagram</a> • 
-  <a href="https://tryhackme.com/p/aishithegenius" target="_blank">TryHackMe</a>
+  <a href="mailto:aishithegenius@gmail.com" style="text-decoration:none; color:#000;">📧 aishithegenius@gmail.com</a>
+  <a href="https://www.linkedin.com/in/bless-benjamin-a099b5289/" target="_blank" style="text-decoration:none; margin-left:15px; color:#0A66C2;">LinkedIn</a>
+  <a href="https://x.com/aishithegenius" target="_blank" style="text-decoration:none; margin-left:15px; color:#1DA1F2;">Twitter</a>
+  <a href="https://www.instagram.com/aishithegenius/" target="_blank" style="text-decoration:none; margin-left:15px; color:#E4405F;">Instagram</a>
+  <a href="https://tryhackme.com/p/aishithegenius" target="_blank" style="text-decoration:none; margin-left:15px; color:#88cc14;">TryHackMe</a>
 </p>
 
 ---
 
 <p align="center">
-  <hr style="width:90%; border:1px solid #000;" />
+  <hr style="width:90%; border:1px solid #ccc;" />
 </p>
 
----
-
 <p align="center">
-  <strong>The Persona</strong>  
+  <span style="font-size:32px; font-weight:bold;">The Persona</span>  
   <br />
-  <hr style="width:50%; border:1px solid #000;" />
+  <hr style="width:50%; border:1px solid #ccc;" />
 </p>
 
 I’m Bless!  
@@ -38,7 +36,11 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
 ---
 
 <p align="center">
-  <strong>Skills</strong>
+  <hr style="width:90%; border:1px solid #ccc;" />
+</p>
+
+<p align="center">
+  <span style="font-size:32px; font-weight:bold;">Skills</span>
 </p>
 
 **Cybersecurity:**  
@@ -53,7 +55,11 @@ Linux • Docker • VMware • Git/GitHub • AWS/GCP • Postman • Burp Suit
 ---
 
 <p align="center">
-  <strong>Focus Area</strong>
+  <hr style="width:90%; border:1px solid #ccc;" />
+</p>
+
+<p align="center">
+  <span style="font-size:32px; font-weight:bold;">Focus Area</span>
 </p>
 
 Think of me as your digital Swiss Army knife:  
