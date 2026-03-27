@@ -1,7 +1,5 @@
 <p align="center">
-
-# **Bless Benjamin**
-
+  <h1>Bless Benjamin</h1>
 </p>
 
 <p align="center">
