@@ -26,15 +26,15 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
 
 
 # What I Do
-•Web & API Security Testing:<br>Manual-first, automation-assisted pentesting, aligned with real-world ethical hacking best practices
+**•Web & API Security Testing:**<br>Manual-first, automation-assisted pentesting, aligned with real-world ethical hacking best practices
 <br>
-•Mobile Security:<br> Android & iOS app testing, traffic instrumentation, and reverse engineering where appropriate.
+**•Mobile Security:**<br> Android & iOS app testing, traffic instrumentation, and reverse engineering where appropriate.
 <br>
-•Secure Code Review & Vulnerability Research:<br> Auditing software for bugs and security gaps before they become incidents.
+**•Secure Code Review & Vulnerability Research:**<br> Auditing software for bugs and security gaps before they become incidents.
 <br>
-•Proof-of-Concept Development & Reporting: <br>Clear, reproducible PoCs that communicate risks effectively to teams and stakeholders.
+**•Proof-of-Concept Development & Reporting:** <br>Clear, reproducible PoCs that communicate risks effectively to teams and stakeholders.
 <br>
-•Software Engineering & Systems Design:<br> Writing maintainable, scalable code while ensuring security is baked in, not bolted on.
+**•Software Engineering & Systems Design:**<br> Writing maintainable, scalable code while ensuring security is baked in, not bolted on.
 
 
 
