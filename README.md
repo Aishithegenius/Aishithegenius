@@ -94,6 +94,13 @@ From Moringa labs to real-world systems, I specialize in ethical hacking, penetr
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   42 mins               ████████████████░░░░░░░░░   63.49 %
+YAML       23 mins               ████████▓░░░░░░░░░░░░░░░░   34.63 %
+Git        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 style="font-size:42px;"><b>Languages & Tools</b></h2>
