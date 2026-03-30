@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/aishithegenius/aishithegenius/main/giphy.gif" width="300"/>
+<img src="giphy.gif" width="300"/>
 
 <h1 style="font-size:72px;">Bless Benjamin</h1>
 <hr style="border: 0.5px solid #999; width: 50px;">
