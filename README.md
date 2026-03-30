@@ -40,7 +40,7 @@ Part-time HUMAN, full-time CODER
 I’m Bless!  
 A cybersecurity enthusiast with a knack for finding weak spots before they become problems. I explore networks, systems, and cloud environments, probing for vulnerabilities and building defenses that actually hold up under pressure.
 
-From penetration testing to automation and system hardening, I combine curiosity with hands-on problem-solving to make digital spaces safer. Every challenge is a chance to learn, innovate, and stay one step ahead of the threats that never sleep.
+From penetration testing to automation and system hardening, I combine curiosity with hands-on problem-solving to make digital spaces safer. Every challenge is a chance to learn, innovate, and stay one step ahead.
 
 ---
 
