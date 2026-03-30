@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4MzZxNWRzYnh3YXk4cmw2ZmZiZGwzd2RlZWQ1ZzFqMXdzc3RkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy.gif" width="300"/>
+
 <h1 style="font-size:72px;">Bless Benjamin</h1>
 <hr style="border: 0.5px solid #999; width: 50px;">
 
