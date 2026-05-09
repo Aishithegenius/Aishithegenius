@@ -6,7 +6,7 @@
 
 <b>Cybersecurity • Software • Systems</b>  
 <br>
-Part-time HUMAN, full-time CODER  
+Part-time HUMAN,  full-time CODER  
 <br><br>
 
 <a href="mailto:aishithegenius@gmail.com" target="_blank">
