@@ -58,7 +58,7 @@ The digital world doesn’t wait, and neither do I. I’m constantly diving into
 Manual-first, automation-assisted pentesting aligned with real-world attack scenarios
 
 <b>• Mobile Security:</b><br>
-Android & iOS testing, traffic interception, and analysis
+Android/iOS testing, traffic interception, and analysis
 
 <b>• Secure Code Review & Vulnerability Research:</b><br>
 Identifying logic flaws, misconfigurations, and exploitable weaknesses
